@@ -1,4 +1,4 @@
-//
+// TAKEN FROM THE TUTORIAL
 //  Utilities.swift
 //  customauth
 //
